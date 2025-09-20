@@ -1,9 +1,15 @@
 {
-  "objects": [
-    { "type": "Block", "x": 0, "y": 0, "z": 0 },
-    { "type": "Block", "x": 2, "y": 0, "z": 0 },
-    { "type": "Block", "x": -2, "y": 0, "z": 0 },
-    { "type": "Coin", "x": 1, "y": 1, "z": 0 },
-    { "type": "Coin", "x": -1, "y": 1, "z": 0 }
+  "players": [
+    { "name": "Cássio", "position": "Goleiro", "x": 0, "y": -3 },
+    { "name": "Fabricio Bruno", "position": "Zagueiro", "x": -2, "y": -1 },
+    { "name": "Villalba", "position": "Zagueiro", "x": 2, "y": -1 },
+    { "name": "William", "position": "Lateral", "x": -3, "y": 0 },
+    { "name": "Kaiki Bruno", "position": "Lateral", "x": 3, "y": 0 },
+    { "name": "Lucas Silva", "position": "Volante", "x": -1, "y": 1 },
+    { "name": "Lucas Romero", "position": "Volante", "x": 1, "y": 1 },
+    { "name": "Matheus Pereira", "position": "Meia", "x": 0, "y": 2 },
+    { "name": "Wanderson", "position": "Atacante", "x": -1, "y": 3 },
+    { "name": "Kaio Jorge Terror das Frangas", "position": "Atacante", "x": 1, "y": 3 },
+    { "name": "Christian", "position": "Atacante", "x": 0, "y": 4 }
   ]
 }
