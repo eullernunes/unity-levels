@@ -1,0 +1,9 @@
+{
+  "objects": [
+    { "type": "Block", "x": 0, "y": 0, "z": 0 },
+    { "type": "Block", "x": 2, "y": 0, "z": 0 },
+    { "type": "Block", "x": -2, "y": 0, "z": 0 },
+    { "type": "Coin", "x": 1, "y": 1, "z": 0 },
+    { "type": "Coin", "x": -1, "y": 1, "z": 0 }
+  ]
+}
